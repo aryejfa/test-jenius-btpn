@@ -1,0 +1,25 @@
+const blueVersion = {
+  statusBarStyle: 'dark-content',
+  primary: '#ffc247',
+  primaryLight: '#fff420',
+  primaryGradientStart: '#f1ab1a',
+  primaryGradientEnd: '#f1ab1a',
+  secondaryGradientStart: '#FF1358',
+  secondaryGradientEnd: '#FF1358',
+  profileGradientStart: '#ffc247',
+  profileGradientEnd: '#e19800',
+  secondary: '#FF1358',
+  grey: '#acacac',
+  gray: '#5f5f5f',
+  darkGray: '#4d4d4d',
+  lightGray: '#9b9b9b',
+  white: '#ffffff',
+  main_color: '#F5AA0E',
+  red: '#ff4444',
+  bluish: '#F1F1F7',
+  black: '#000000',
+  green: '#6DD0A3',
+  yellow: '#ffc247',
+};
+
+export default blueVersion;
